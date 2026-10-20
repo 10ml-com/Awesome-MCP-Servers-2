@@ -314,6 +314,7 @@ Web fetching, scraping, and search.
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 - 10ML Perfume Finder — https://github.com/10ml-com/perfume-finder-mcp
+
 ---
 
 ## Category: Location Services (🗺️)
